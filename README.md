@@ -5,11 +5,12 @@ I'm a front-end developer with WordPress experience; I love programming because 
 ----------------------------------------------
 
 My Social:
-</br>
-Linkdin: https://www.linkedin.com/in/ali-reza-babaei/
-</br>
-Twitter: https://twitter.com/Alireza_babaeii
-
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 ----------------------------------------------
 My State
 </br>
