@@ -11,3 +11,4 @@ Linkdin: https://www.linkedin.com/in/ali-reza-babaei/
 Twitter: https://twitter.com/Alireza_babaeii
 
 ----------------------------------------------
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
