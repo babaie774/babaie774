@@ -5,8 +5,9 @@ I'm a front-end developer with WordPress experience; I love programming because 
 ----------------------------------------------
 
 My Social:
-My Social:
+</br>
 Linkdin: https://www.linkedin.com/in/ali-reza-babaei/
+</br>
 Twitter: https://twitter.com/Alireza_babaeii
 
 
