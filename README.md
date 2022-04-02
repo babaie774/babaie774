@@ -5,10 +5,7 @@ I'm a front-end developer with WordPress experience; I love programming because 
 ----------------------------------------------
 
 ### My Social:
-</br>
-Linkdin: https://www.linkedin.com/in/ali-reza-babaei/
-</br>
-
+<a href="mailto:babaie774@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/mwlite/in/ali-reza-babaei"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
 ----------------------------------------------
 My State
