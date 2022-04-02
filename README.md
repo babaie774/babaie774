@@ -1,11 +1,11 @@
 ### Hi there 👋
+### 💻 &nbsp;About Me
 <!-- BLOGPOSTS:START -->
 I'm a front-end developer with WordPress experience; I love programming because it teaches me progress along with continuous training and problem-solving skills alongside teamwork, so I invite you to see my resume below and you can also send me a message to answer questions related to this field.
 <!-- BLOGPOSTS:END -->
 ----------------------------------------------
 
 ### 🛠 &nbsp;Tech Stack
-
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -22,7 +22,8 @@ I'm a front-end developer with WordPress experience; I love programming because 
 
 ----------------------------------------------
 
-### My Social:
+### 📩 &nbsp;My Social:
+<br/>
 <a href="mailto:babaie774@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/mwlite/in/ali-reza-babaei"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
 ----------------------------------------------
