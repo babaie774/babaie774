@@ -20,7 +20,7 @@ I'm a front-end developer with WordPress experience; I love programming because 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-- ![Linux](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu)
+![Linux](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu)
   ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue)
 
 ----------------------------------------------
