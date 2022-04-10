@@ -34,16 +34,16 @@ Activity Graph
 </br>
 </br>
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=babaie774&hide_border=true&theme=redical)
+![babaie774's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=babaie774&hide_border=true&theme=redical)
 ----------------------------------------------
 My State
 </br>
 </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babaie774)](https://github.com/anuraghazra/github-readme-stats)
+[![babaie774's GitHub stats](https://github-readme-stats.vercel.app/api?username=babaie774)](https://github.com/babaie774/github-readme-stats)
 ----------------------------------------------
 My language state
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/babaie774/github-readme-stats)
 ----------------------------------------------
 
