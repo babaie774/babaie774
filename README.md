@@ -20,8 +20,8 @@ I'm a front-end developer with WordPress experience; I love programming because 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🔧 &nbsp;
-- ![Windows](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- ![Linux](https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475)
+- ![Linux](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu)
+- ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue)
 
 ----------------------------------------------
 
