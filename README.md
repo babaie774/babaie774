@@ -30,9 +30,6 @@ I'm a front-end developer with WordPress experience; I love programming because 
 <a href="mailto:babaie774@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/mwlite/in/ali-reza-babaei"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
 ----------------------------------------------
-Activity Graph
-</br>
-</br>
 ### 📈 GitHub Activity Graph:
 ![babaie774's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=babaie774&hide_border=true&theme=redical)
 ----------------------------------------------
