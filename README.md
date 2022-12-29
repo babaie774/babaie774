@@ -35,12 +35,16 @@ I'm a front-end developer with WordPress experience; I love programming because 
   <img src="https://github-profile-trophy.vercel.app/?username=babaie774&column=7"/>
 </div>
 </br>
+
 ----------------------------------------------
+
 My State
 </br>
 </br>
 [![babaie774's GitHub stats](https://github-readme-stats.vercel.app/api?username=babaie774)](https://github.com/babaie774/github-readme-stats)
+
 ----------------------------------------------
+
 My language state
 </br>
 </br>
