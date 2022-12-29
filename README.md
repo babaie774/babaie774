@@ -34,6 +34,7 @@ I'm a front-end developer with WordPress experience; I love programming because 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=babaie774&column=7"/>
 </div>
+</br>
 ----------------------------------------------
 My State
 </br>
