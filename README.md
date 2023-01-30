@@ -29,9 +29,6 @@ I'm a front-end developer with WordPress experience; I love programming because 
 <br/>
 <a href="mailto:babaie774@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/mwlite/in/ali-reza-babaei"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <br/>
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCWkzkhQ3syxBjjAYwqCbzYg?style=social)](https://www.youtube.com/channel/UC31-XGgKy4JbNW3TnjgHL1A)
-<br/>
-[![LinkdIn](https://img.shields.io/badge/LinkdIn-kriscfoster-blue)](https://www.linkedin.com/in/kriscfoster/)
 
 ----------------------------------------------
 
