@@ -1,9 +1,11 @@
 ### Hi there 👋
 ### 💻 &nbsp;About Me
 <!-- BLOGPOSTS:START -->
-I have over 6 years of front-end and 3 year of back-end development experience, working with a variety of web technologies and Windows-based software. I've handled integrations with web cameras, fingerprint scanners, invoices, and printers in web applications.
+I have over 6 years of front-end and 3 years of back-end development experience, working with a variety of web technologies and Windows-based software. I've handled integrations with web cameras, fingerprint scanners, invoices, and printers in web applications.
 
-In addition, I have developed a Node.js-based e-commerce system using microservices, showcasing my ability to work with diverse databases and services. I excel at quickly solving development challenges and collaborating with teams to deliver results.
+In addition, I have developed a microservice-based Node.js application focused on scalability and asynchronous communication, including message queues (RabbitMQ, Kafka), caching (Redis), background job processing (Bull), and authentication (JWT), showcasing my ability to work with modern backend technologies and handle complex database integrations.
+
+I excel at quickly solving development challenges and collaborating with teams to deliver results, especially in distributed systems with a focus on performance optimization and fault tolerance.
 <!-- BLOGPOSTS:END -->
 ----------------------------------------------
 
